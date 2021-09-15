@@ -1,14 +1,14 @@
-# Schnelleinstieg in TypeScript
+# TypeScript for Beginners
 
-## Kurs Software
+## Install Software
 
 - npm
 - npm install -g typescript
 - npm install -g lite-server
+- npm install -g ts-node
 
 ## Video Setup
 
-- index.html
 - script.ts
 - package.json
 - tsconfig.json
